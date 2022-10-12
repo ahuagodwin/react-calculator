@@ -1,0 +1,20 @@
+
+
+button:hover {
+    background: darkslategrey;
+    color: var(--theme-text);
+}
+
+.equals {
+    grid-column: 3/5;
+}
+
+.equals:hover {
+    background: var(--theme-text);
+    color: var(--theme-btn-active);
+}
+
+.opt {
+    background: darkslategrey !important;
+    color: var(--theme-text);
+}
